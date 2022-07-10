@@ -1,4 +1,4 @@
-#Simple Sitemap Generator for Wordpress
+# Simple Sitemap Generator for Wordpress
 
 A WordPress plugin to automatically add entries to the sitemap.xml file.
 
